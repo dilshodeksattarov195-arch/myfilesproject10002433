@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterctringify",
+        "uuid": 23979648,
+        "checksum": "bv9dah"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
